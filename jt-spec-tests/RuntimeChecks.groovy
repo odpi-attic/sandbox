@@ -113,7 +113,7 @@ res.waitForOrKill(60)
 if ( res.exitValue() == 0 ) {
     // TBD
 } else {
-    println "ERROR: hadoop envvars failed
+    println "ERROR: hadoop envvars failed"
 }
 
 
